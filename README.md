@@ -19,4 +19,3 @@ A comprehensive Money Tracker app designed to simplify your financial management
 4.Data Persistence: Store financial data securely using MongoDB, ensuring reliability and accessibility.
 
 5.Transaction History: Access a comprehensive history of your financial transactions for reference and analysis.
-## Demo
